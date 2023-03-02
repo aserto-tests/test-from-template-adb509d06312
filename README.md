@@ -1,1 +1,5 @@
-# test-from-template-adb509d06312
+# policy-template
+
+Repository template for Aserto policy repos.
+
+
